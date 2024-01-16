@@ -1,7 +1,11 @@
 ## About e-RAdata
 e-RA provides a permanent managed database for secure storage of data from Rothamsted's Long-term Experiments, the oldest, continuous agronomic experiments in the world. Together with the accompanying meteorological records, associated documentation and sample archive, it is a unique historical record of experiments that have been measured continuously since 1843.
 
- -  [e-RA main web site](https://www.era.rothamted.ac.uk/).
+ - [e-RA main web site](https://www.era.rothamted.ac.uk/).
+ - [Framework is Laravel](https://www.laravel.com).
+ - [SocialStream](https://docs.socialstream.dev/guides/standalone-installation): a little bit of help with the authentication using third party apps
+ 
+
 
 
 
